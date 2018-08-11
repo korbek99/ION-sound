@@ -1,0 +1,7 @@
+{
+  "name": "AppSonidos",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
